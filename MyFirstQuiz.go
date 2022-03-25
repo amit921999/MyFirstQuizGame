@@ -6,7 +6,7 @@ func main() {
 	fmt.Println("Welcome to my quiz game!")
 	fmt.Println("Rule: 'This game has NEGATIVE marking also i.e. +2 and -1' ")
 
-	fmt.Println("Enter your name: ")
+	fmt.Println("Enter your name:")
 
 	var name string
 	fmt.Scan(&name)
